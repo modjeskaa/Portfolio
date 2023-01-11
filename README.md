@@ -1,5 +1,6 @@
 # About me
-I am an Art History major (UAM) with a background in researching european art market for antiques (paintings, military, collectibles). I've recently found myself fascinated by computer science. I am developing software testing and technical skills.
+I am an Art History major (UAM) with a background in researching european art market.
+Recently I've gained interest in computer science. I am developing software testing and technical skills.
 On this site I wish to share my projects and gained knowledge from my personal studies. 
 
 
