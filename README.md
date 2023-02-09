@@ -22,8 +22,3 @@ ISTQB (22.11.2022)
 # Courses
 Kurs Tester Manualny (CodersLab) (26.09.2022 - 07.10.2022)
 
-# Books
-* "Certyfikowany tester ISTQB. Poziom podstawowy" A. Roman, L. Stapp
-* [Testowanie oprogramowania - Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/autor)
-* "Python. Instrukcje dla programisty" E. Matthes
-* "Automatyzacja nudnych zadań z Pythonem" A. Sweigart
